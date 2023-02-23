@@ -1,2 +1,2 @@
-# gtm-server-single-ga4-item-builder-template
+# GTM-Server-Template: Single GA4 Item Builder
 Build GA4's items array based on custom input.
