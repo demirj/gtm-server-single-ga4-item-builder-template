@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Single GA4 Item Builder",
+  "categories": ["TAG_MANAGEMENT"],
   "description": "Build GA4\u0027s items array based on custom input.",
   "containerContexts": [
     "SERVER"
